@@ -4,12 +4,14 @@
 
 
 
+![foto2](https://user-images.githubusercontent.com/75698045/111208093-19938e80-85a9-11eb-9b5e-ba23dbb343ad.jpg)
+
 
 
 - :woman_student: Bacharel em Sistemas de Informação - Universidade Santa Cecília
 - :books: Estudante de Tecnologias e Inovações Web
-- :earth_americas: Santos / SP
 - :white_check_mark: Interesse em: HTML, CSS, JavaScript, Boostrap, ReacJS e AngularJS
+- :earth_americas: Santos / SP
 
 ### Contato
 :mailbox_with_no_mail: giovanna.santos99@yahoo.com
