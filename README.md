@@ -10,7 +10,7 @@
 
 - :woman_student: Bacharel em Sistemas de Informação - Universidade Santa Cecília
 - :books: Estudante de Tecnologias e Inovações Web
-- :nerd_face: Interesse em: HTML, CSS, JavaScript, Boostrap, ReactJS e AngularJS
+<!--- :nerd_face: Interesse em: HTML, CSS, JavaScript, Boostrap, ReactJS e AngularJS-->
 - :earth_americas: Santos / SP
 
 ### Contato
